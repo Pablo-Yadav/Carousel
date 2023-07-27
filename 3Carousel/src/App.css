@@ -1,0 +1,26 @@
+.imageSize {
+  width: 20%;
+  height: 80vh;
+  object-fit: contain;
+}
+button{
+    height: 80vh;
+}
+.container {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Head {
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 2rem;
+  width:98.7vw;
+  height:10vh;
+  background-color: white;
+  border: 2px solid red;
+  border-radius: 10px;
+}
